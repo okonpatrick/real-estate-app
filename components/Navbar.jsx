@@ -10,7 +10,7 @@ const Navbar = () => (
       <Link href='/' paddingLeft='2'>Realtor</Link>
     </Box>
     <Spacer />
-    <Box>
+    <Box> 
       <Menu>
         <MenuButton as={IconButton} icon={<FcMenu />} variant='outline' color='red.400' />
         <MenuList>
